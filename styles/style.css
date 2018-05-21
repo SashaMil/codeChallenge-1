@@ -1,0 +1,20 @@
+.color {
+  background-color: red;
+  height: 100px;
+  width: 200px;
+  padding: 10px;
+  margin-top: 20px;
+
+}
+
+.otherColor {
+  background-color: yellow;
+  height: 100px;
+  width: 200px;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+#buttonHolder {
+  float: left;
+}
